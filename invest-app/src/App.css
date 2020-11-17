@@ -1,0 +1,83 @@
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+header {
+  text-align: center;
+  background-color: rgb(77, 73, 73);
+  width: 100%;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.125);
+  text-shadow: 0 0 4px #000;
+  -moz-text-shadow: 0 0 5px #000;
+  -webkit-text-shadow: 0 0 5px #000;
+}
+
+.square {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  background-color: rgb(119, 111, 111);
+  border: 2px solid rgba(0, 0, 0, 0.125);
+  border-radius: 3px;
+  height: 600px;
+  width: 500px;
+  text-shadow: 0 0 4px #000;
+  -moz-text-shadow: 0 0 5px #000;
+  -webkit-text-shadow: 0 0 5px #000;
+}
+
+label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.middle-content {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  font-size: 30px;
+  height: 40px;
+  margin: 15px;
+  width: 200px;
+  margin-bottom: 15px;
+  border: 2px solid rgba(10, 10, 10, 0.325);;
+  border-radius: 5px;
+}
+
+.login-div input:hover{
+  border: 3px solid rgb(170, 165, 165);
+  box-shadow: 0 0 3px #ddd;
+}
+
+button {
+  position: relative;
+  bottom: 20px;
+  height: 30px;
+  border-radius: 4px;
+  background-color: #0d8117;
+  color: white;
+  width: 200px;
+  height: 45px;
+  font-weight: 700;
+  font-size: 22.5px;
+  text-shadow: rgba(0, 0, 0, 0.5) 0 1px 2px;
+  border: 1px solid rgba(10, 10, 10, 0.125);
+}
+
+.results {
+  font-size: 40px;
+  position: relative;
+  bottom: 20px;
+}
