@@ -36,7 +36,7 @@ class Feedback extends React.Component {
       this.setState({
         gif: triste,
         gifWidth: '350',
-        feedback: 'Podia ser melhor...',
+        feedback: 'Poderia ser melhor...',
       })
     } else {
       this.setState({
