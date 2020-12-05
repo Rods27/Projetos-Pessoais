@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Rods27/Projetos-Pessoais/tree/master/trivia-project/static/css/main.dbb9426e.chunk.css",
+    "main.js": "/Rods27/Projetos-Pessoais/tree/master/trivia-project/static/js/main.4def8688.chunk.js",
+    "main.js.map": "/Rods27/Projetos-Pessoais/tree/master/trivia-project/static/js/main.4def8688.chunk.js.map",
+    "runtime-main.js": "/Rods27/Projetos-Pessoais/tree/master/trivia-project/static/js/runtime-main.d77769e6.js",
+    "runtime-main.js.map": "/Rods27/Projetos-Pessoais/tree/master/trivia-project/static/js/runtime-main.d77769e6.js.map",
+    "static/js/2.aaf28bac.chunk.js": "/Rods27/Projetos-Pessoais/tree/master/trivia-project/static/js/2.aaf28bac.chunk.js",
+    "static/js/2.aaf28bac.chunk.js.map": "/Rods27/Projetos-Pessoais/tree/master/trivia-project/static/js/2.aaf28bac.chunk.js.map",
+    "index.html": "/Rods27/Projetos-Pessoais/tree/master/trivia-project/index.html",
+    "static/css/main.dbb9426e.chunk.css.map": "/Rods27/Projetos-Pessoais/tree/master/trivia-project/static/css/main.dbb9426e.chunk.css.map",
+    "static/js/2.aaf28bac.chunk.js.LICENSE.txt": "/Rods27/Projetos-Pessoais/tree/master/trivia-project/static/js/2.aaf28bac.chunk.js.LICENSE.txt",
+    "static/media/chuck.4d1de9a6.gif": "/Rods27/Projetos-Pessoais/tree/master/trivia-project/static/media/chuck.4d1de9a6.gif",
+    "static/media/config.6d23e4c9.png": "/Rods27/Projetos-Pessoais/tree/master/trivia-project/static/media/config.6d23e4c9.png",
+    "static/media/profile.33d078d1.png": "/Rods27/Projetos-Pessoais/tree/master/trivia-project/static/media/profile.33d078d1.png",
+    "static/media/triste.8d25d73e.gif": "/Rods27/Projetos-Pessoais/tree/master/trivia-project/static/media/triste.8d25d73e.gif",
+    "static/media/trivia.7e9181d3.png": "/Rods27/Projetos-Pessoais/tree/master/trivia-project/static/media/trivia.7e9181d3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d77769e6.js",
+    "static/js/2.aaf28bac.chunk.js",
+    "static/css/main.dbb9426e.chunk.css",
+    "static/js/main.4def8688.chunk.js"
+  ]
+}
